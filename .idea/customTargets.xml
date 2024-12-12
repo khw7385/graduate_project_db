@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="3116c954-6306-460a-a9b6-ef6c5b8f88c6" name="postgresql build target" defaultType="MAKE">
+      <configuration id="4a8f9251-41c6-46a5-9ea7-dc7f45690840" name="postgresql build target" toolchainName="WSL" />
+    </target>
+  </component>
+</project>
